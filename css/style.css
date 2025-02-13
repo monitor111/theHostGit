@@ -1,6 +1,21 @@
-form {
-	width: 300px !important;
-}
-
- 
-
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+input.form-control {
+    border-radius: 5px;
+}
+
+
+
+
+
+ 
+
+
+
