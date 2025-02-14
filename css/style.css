@@ -1,4 +1,4 @@
-body {
+/*body {
     font-family: Arial, sans-serif;
     background-color: #f8f9fa;
 }
@@ -9,7 +9,46 @@ h1 {
 
 input.form-control {
     border-radius: 5px;
+}*/
+
+
+
+/* Общий стиль для страницы */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #424242; /* Светлый фон */
+    color: #e0e0e0; /* Светлый текст */
 }
+
+h1 {
+    color: #e0e0e0; /* Светлый цвет заголовка */
+}
+
+/* Стили для форм */
+input.form-control {
+    background-color: #45393900; /* Светлый фон для полей ввода */
+    color: #333; /* Темный цвет текста в поле ввода */
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Кнопки */
+button {
+    border-radius: 5px;
+}
+
+/* Стили для кнопки "Загрузить видео" */
+.btn-success {
+    background-color: #4caf50;
+    color: white;
+}
+
+/* Стили для кнопки "Очистить форму" */
+.btn-secondary {
+    background-color: #757575;
+    color: white;
+}
+
 
 
 
